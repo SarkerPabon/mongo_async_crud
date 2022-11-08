@@ -1,0 +1,10 @@
+20221101	10:37:18	9c4ec52f-4484-4081-9762-8b4ac4133814	Error: Not Allowed By CORS
+20221101	12:09:32	e2e73827-df84-4312-97c1-0aa165dec046	ReferenceError: pareseInt is not defined
+20221106	12:03:34	f378a585-b936-484e-84ca-9d9707c502b4	TypeError: authHeader?.startWith is not a function
+20221106	12:14:32	96b4099b-01f8-47e5-bd34-b835147e7da1	ReferenceError: roles is not defined
+20221106	12:19:10	1cb565c7-e845-44af-920a-c5a834530126	ReferenceError: decode is not defined
+20221107	06:45:19	d40133a8-be14-499c-afac-84208456c563	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
